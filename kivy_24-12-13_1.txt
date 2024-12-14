@@ -1,0 +1,32 @@
+[INFO   ] Logger: Record log in /storage/emulated/0/My app/.kivy/logs/kivy_24-12-13_1.txt
+[INFO   ] Kivy: v2.2.1
+[INFO   ] Kivy: Installed at "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.11/site-packages/kivy/__init__.py"
+[INFO   ] Python: v3.11.4 (main, Sep 30 2023, 10:54:38) [GCC 11.4.0]
+[INFO   ] Python: Interpreter at "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/bin/python3"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[INFO   ] Factory: 190 symbols loaded
+[INFO   ] Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[INFO   ] KivyMD: 1.2.0, git-Unknown, 2024-12-13 (installed at "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.11/site-packages/kivymd/__init__.py")
+[WARNING] KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+[INFO   ] Text: Provider: sdl2
+[INFO   ] Window: Provider: sdl2
+[INFO   ] GL: Using the "OpenGL ES 2" graphics system
+[INFO   ] GL: Backend used <sdl2>
+[INFO   ] GL: OpenGL version <b'OpenGL ES 3.2 V@0502.45 (GIT@0a31cc5b53, I80d2918b26, 1695804887) (Date:09/27/23)'>
+[INFO   ] GL: OpenGL vendor <b'Qualcomm'>
+[INFO   ] GL: OpenGL renderer <b'Adreno (TM) 610'>
+[INFO   ] GL: OpenGL parsed version: 3, 2
+[INFO   ] GL: Texture max size <16384>
+[INFO   ] GL: Texture max units <16>
+[INFO   ] Window: auto add sdl2 input provider
+[INFO   ] Window: virtual keyboard not allowed, single mode, not docked
+[INFO   ] Clipboard: Provider: android
+[INFO   ] GL: NPOT texture support is available
+[WARNING] Base: Unknown <android> provider
+[INFO   ] Base: Start application main loop
+[DEBUG  ] Starting new HTTPS connection (1): www.instagram.com:443
+[DEBUG  ] https://www.instagram.com:443 "POST /graphql/query HTTP/11" 200 4654
+[DEBUG  ] Starting new HTTPS connection (1): instagram.fmaa14-1.fna.fbcdn.net:443
+[DEBUG  ] https://instagram.fmaa14-1.fna.fbcdn.net:443 "GET /o1/v/t16/f2/m86/AQOO_IMivWb1TvX3mil0BAPl2MB5W6sRbAmRI8u4DMfGsbB6EHX2h8fCLP6RQrZHZKPc56p8JAwbN4Dd9tMCi5J-AOK63WAefvWsAb0.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=1103234434191797_1172594301&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FQTQ3QkE2MEI3MERCRERCQ0QyODlBOUVGRjlDMzY5M192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMam45QnYxMG1LdE1CWUVBSkNkdnZITlBOaGVicV9FQUFBRhUCAsgBACgAGAAbABUAACawqJeHh4GHQBUCKAJDMywXQCHAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HAA%3D%3D&ccb=9-4&oh=00_AYDz_lda9aguRC7Ovye35MpgwijaSYYswN6Gsmj0jM-QJA&oe=675D9A83&_nc_sid=d885a2 HTTP/11" 200 371330
+[INFO   ] Base: Leaving application in progress...
